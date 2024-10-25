@@ -5,7 +5,7 @@ About this Dataset: Netflix is one of the most popular media and video streaming
 <a href=""> Netflix Homepage Analysis <a>
 ## Netflix Home Analysis
 ###  Have Fives  Cards :
-  Total Netflix  TV Show 
+ 1. Total Netflix  TV Show 
   Total Netflix Movies 
   Total Netflix County's
   Total Netflix Director 
