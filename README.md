@@ -9,7 +9,7 @@ About this Dataset: Netflix is one of the most popular media and video streaming
 4. <a href="https://github.com/MohamedNasr55/Netflix_Dashboard/blob/main/Dashboard Images/Three Page Analysis.png"> Three Page Analysis <a>
 5. <a href="https://github.com/MohamedNasr55/Netflix_Dashboard/blob/main/Dashboard Images/Analysis Business Part 1.png"> Analysis Business Part 1 <a>
 6. <a href="https://github.com/MohamedNasr55/Netflix_Dashboard/blob/main/Dashboard Images/Analysis Business Part 2.png"> Analysis Business Part 2 <a>
-7. <a href="https://github.com/MohamedNasr55/Netflix_Dashboard/blob/main/Dashboard Images/Important Point.png"> Important Point <a>
+7. <a href="https://github.com/MohamedNasr55/Netflix_Dashboard/blob/main/Dashboard Images/Important Point.png"> Insight Business from this Analysis <a>
 
 
 
